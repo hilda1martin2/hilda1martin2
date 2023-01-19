@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**hilda1martin2/hilda1martin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/gQwH1R3CNK5wbbU6mW/200w.webp?cid=ecf05e47f251sfnvpwgbib5ala7q8jietedb92psjzznjjvt&rid=200w.webp&ct=s" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+:video_game: I mainly play Assassin Creed, GTA 5, Dota and World of Warcraft 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Globally, I am determined to learn all programming languages 
+.
+.
+.
+.
+.
+but for now I only play video games and watch learning videos on programming 
